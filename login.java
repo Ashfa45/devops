@@ -1,4 +1,5 @@
 class login{
-  functions login() {
-    sysytem.out.println
-  }
+function login () {
+system.out.println("this is sample java program");
+}
+}
